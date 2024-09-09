@@ -29,4 +29,4 @@ jobs:
       - run: git config --global --add safe.directory /__w/python/python
       
       # Commit all changed files back to the repository
-      - uses: russellwenz/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v5
