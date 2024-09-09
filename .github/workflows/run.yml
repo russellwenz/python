@@ -26,4 +26,4 @@ jobs:
       - run: python3 run.py
 
       # Commit all changed files back to the repository
-      - uses: russellwenz/git-auto-commit-action@v5
+      - uses: russellwenz/python/git-auto-commit-action@v5
